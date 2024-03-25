@@ -171,6 +171,7 @@ CALL CUSTOMER_DATA();
 
 -- the maximum tenure to bank and show the message if max tenure is less than 10 than they are in good progress
 create procedure message()
+begin
 select CustomerId , Surname , CreditScore ,
 (case
 	when Tenure = 10 then ' customer is in stable for loan payable'
