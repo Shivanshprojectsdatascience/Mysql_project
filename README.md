@@ -1,6 +1,5 @@
 # Mysql_project
-//Project-Overview = This project is all about the analyzing bank customer data behaviour in particular country or Region .
-challenges faced in this project is that since it was all about bank data so there many terms which need to be understand before problem solving
+//Project-Overview = Project is all about  analyzing bank customer data behaviour in particular country or Region and define the decision making for bank to improve their customers performance in some particular region 
 //Tools - Mysql Server
 //Functions  , commands that are used in this project - 
 1).group by()
@@ -11,4 +10,4 @@ challenges faced in this project is that since it was all about bank data so the
 6).operators
 7).Aggregate functions
 8).case statements
-//ultimate goal of this project is to optimize bank for their future investment towards country and help them to improve their buisness in particular country
+//ultimate goal = define the decision making for bank to improve their customers performance in some particular
